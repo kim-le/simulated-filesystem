@@ -1,5 +1,5 @@
 # simulated-filesystem
-This was a program created for my Software Tools and Systems Programming class at the University of Toronto Mississauga. It simulates a single-directory file system with a limit on number of files and total space. 
+This is a program created in my Software Tools and Systems Programming class at the University of Toronto Mississauga. It simulates a single-directory file system with a limit on number of files and total space. 
 
 The functionality of the program includes the initialization of the file system, the ability to create a file, delete a file, write to a file, and read from a file.
 
