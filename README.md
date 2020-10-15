@@ -11,7 +11,10 @@ git clone https://github.com/kim-le/simulated-filesystem.git
 ```
 
 ## Usage
-
+To start using the simulated file system, run the Makefile:
+```bash
+make
+```
 The simulated filesystem is run as:
 ```bash
 simfs -f myfs command args
